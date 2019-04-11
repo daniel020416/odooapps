@@ -149,8 +149,7 @@ msgstr "Duraciones de los activos para modificar"
 #. module: account_asset
 #: model:ir.model.fields,field_description:om_account_asset.field_account_invoice_line_asset_end_date
 msgid "Asset End Date"
-msgstr "
-Fecha de finalización del Activo"
+msgstr "Fecha de finalización del Activo"
 
 #. module: account_asset
 #: model:ir.model.fields,field_description:om_account_asset.field_asset_modify_asset_method_time
